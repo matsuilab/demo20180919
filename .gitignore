@@ -1,2 +1,1 @@
-#jsonファイルは全無視
-*.json
+/matsuilab-counter-9af569808183.json
